@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TIC\\Downloads\\PetCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\data\\petdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\data\\petdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\controllers\\citaproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\controllers\\citaproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Migrations\\20250410190047_PrimeraMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetCare.API\\Migrations\\20250410190047_PrimeraMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\models\\citaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\models\\citaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\petcare.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\petcare.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|c:\\users\\tic\\downloads\\petcare\\petcare.api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10F4B-B04E-4398-A869-69FF03A7AD20}|PetCare.API\\PetCare.API.csproj|solutionrelative:petcare.api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "PetCare.API\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:37:08.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Controllers\\CitasController.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "PetCare.API\\Controllers\\CitasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:36:32.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MascotasController.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Controllers\\MascotasController.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Controllers\\MascotasController.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Controllers\\MascotasController.cs",
+              "RelativeToolTip": "PetCare.API\\Controllers\\MascotasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:36:14.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "PetCare.API\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:35:54.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Models\\Servicio.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Models\\Servicio.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Models\\Servicio.cs",
+              "RelativeToolTip": "PetCare.API\\Models\\Servicio.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:59:54.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Models\\Cliente.cs",
+              "RelativeToolTip": "PetCare.API\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:58:53.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250410190047_PrimeraMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Migrations\\20250410190047_PrimeraMigracion.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Migrations\\20250410190047_PrimeraMigracion.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Migrations\\20250410190047_PrimeraMigracion.cs",
+              "RelativeToolTip": "PetCare.API\\Migrations\\20250410190047_PrimeraMigracion.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAgwK8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:00:47.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PetDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Data\\PetDbContext.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Data\\PetDbContext.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Data\\PetDbContext.cs",
+              "RelativeToolTip": "PetCare.API\\Data\\PetDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:17:23.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Program.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Program.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Program.cs",
+              "RelativeToolTip": "PetCare.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:47:39.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CitaProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Controllers\\CitaProductosController.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Controllers\\CitaProductosController.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Controllers\\CitaProductosController.cs",
+              "RelativeToolTip": "PetCare.API\\Controllers\\CitaProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:37:33.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "PetCare.API\\Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:36:46.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PetCare.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\appsettings.json",
+              "RelativeToolTip": "PetCare.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T04:26:56.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProveedoresController.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Controllers\\ProveedoresController.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Controllers\\ProveedoresController.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Controllers\\ProveedoresController.cs",
+              "RelativeToolTip": "PetCare.API\\Controllers\\ProveedoresController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:37:19.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CitaProducto.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Models\\CitaProducto.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Models\\CitaProducto.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Models\\CitaProducto.cs",
+              "RelativeToolTip": "PetCare.API\\Models\\CitaProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:00:11.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Models\\Cita.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Models\\Cita.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Models\\Cita.cs",
+              "RelativeToolTip": "PetCare.API\\Models\\Cita.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:59:38.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PetCare.API.csproj",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\PetCare.API.csproj",
+              "RelativeDocumentMoniker": "PetCare.API\\PetCare.API.csproj",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\PetCare.API.csproj",
+              "RelativeToolTip": "PetCare.API\\PetCare.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T03:47:37.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Models\\Proveedor.cs",
+              "RelativeToolTip": "PetCare.API\\Models\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:00:43.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Models\\Mascota.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Models\\Mascota.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Models\\Mascota.cs",
+              "RelativeToolTip": "PetCare.API\\Models\\Mascota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:59:30.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "PetCare.API\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\TIC\\Downloads\\PetCare\\PetCare.API\\Models\\Producto.cs",
+              "RelativeToolTip": "PetCare.API\\Models\\Producto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:00:34.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
